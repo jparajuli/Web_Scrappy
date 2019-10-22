@@ -13,7 +13,7 @@ numpy==1.12.1
 numpydoc==0.7.0
 oauth2client==4.1.2
 oauthlib==2.0.1
-Pillow==5.0.0
+Pillow==6.2.0
 pymongo==3.6.0
 requests==2.13.0
 requests-oauthlib==0.8.0
