@@ -8,7 +8,7 @@ future==0.16.0
 Jinja2==2.9.6
 lxml==4.1.0
 MarkupSafe==1.0
-nltk==3.2.4
+nltk==3.6.3
 numpy==1.12.1
 numpydoc==0.7.0
 oauth2client==4.1.2
